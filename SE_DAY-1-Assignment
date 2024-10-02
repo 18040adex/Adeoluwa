@@ -87,3 +87,24 @@ Prompt engineering is the practice of designing and refining input prompts given
 7.	Tailoring to Different Audiences: Prompt engineering allows customization of responses for different audiences or purposes. For instance, a prompt can be tailored to suit a technical audience, a general audience, or a specific age group, ensuring the output is appropriately framed.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt Example
+"Write some code about sorting."
+
+Improved Prompt
+"Write a Python function that sorts a list of integers in ascending order using the quicksort algorithm, and include comments explaining each step."
+
+Explanation of Improvement
+Clarity: The improved prompt specifies the programming language (Python) and the type of sorting algorithm (quicksort), eliminating any confusion about what kind of code to write.
+
+Specificity: By mentioning that the code should sort "a list of integers" and be "in ascending order," it clearly defines the input and output expected from the code.
+
+Conciseness: The prompt includes a request for comments explaining each step, which provides additional context and a clearer expectation for the level of detail required.
+
+Effectiveness
+The improved prompt is more effective because it gives precise instructions, making it easier for the coder to understand the task. This leads to the creation of functional code that meets specific requirements and encourages best practices, such as commenting on the code for better readability and understanding. The more targeted nature of the prompt helps in producing a relevant and high-quality coding solution.
+
+
+
+
+
+
